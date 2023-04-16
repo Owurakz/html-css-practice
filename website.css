@@ -1,0 +1,80 @@
+body{
+	margin-top: 30px; margin-right: 20px; margin-left: 30px; 
+	font-family: Helvetica, 'Times new roman';
+/*	 border: blue  1px solid;*/
+	/* border-left:blue  1px solid ; 
+	 border-right: blue  1px solid;*/
+}
+
+.head{
+	background-color: #6ec294; height: 200px; 
+
+justify-content: center;  display: flex; flex-direction: column; align-content: center;
+} 
+
+.headie{
+margin: 20px; 
+padding-top: 25px; 
+	text-align: center;
+}
+
+.navigation{ background-color: black; height:40px; 
+/*	margin-top: 20px;*/
+}
+
+li {
+list-style:none; display: inline-flex; 
+/*padding-top:20px; */
+margin-right:20px;
+padding-bottom: 0px;
+ }
+
+
+.midsec{
+	display: flex; margin-top: 20px;
+}
+
+.leftsec{
+ width: 23%; margin-right: 2%; margin-left:1.5% ;
+}
+
+/*.leftsec > img{
+	height: 150px; width: 100%;
+}*/
+.morepics>p{
+	height: 30px; background-color: darkgrey; padding-top: 15px; padding-left: 15px;
+}
+/*.morepics > img{
+	height: 40px; width: 100%; margin-bottom: 10px;
+}*/
+
+.rightsec{
+	width: 73%; margin-right: 1%;
+}
+
+.leftimage{
+	background-color: darkgrey;  height: 120px; padding-top: 20px; padding-left: 20px;
+}
+/*.rightsec >img { width: 100%; height: 150px;
+
+}*/
+
+.rightimage{ background-color: darkgrey;  height: 120px; padding-top: 20px; padding-left: 20px;
+
+}
+
+#hm{
+	margin-top: 20px; padding-top: 32px;
+}
+
+.footer{
+	text-align: center; background-color: #ded1e0; height: 40px; padding-top: 20px;
+	margin-left: 1%; margin-right: 1%; font-weight: bolder;
+}
+a:link{
+	color: yellow;
+}
+
+a:hover {
+  color: red;
+}
