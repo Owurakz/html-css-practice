@@ -1,0 +1,28 @@
+
+/*body{
+margin: 0px 200px 0px 140px; width: 80%;
+	background-color: beige;
+}*/
+
+.code{
+	width: 75%;
+}
+.header {
+	background-color: #3299a8; height: 30px;  margin: 20px 20px 10px 20px;
+}
+
+.firstparagraph{
+	background-color: #3299a8; height: 200px;  margin: 10px 20px;
+}
+
+#one, #two, #three{ background-color: #3299a8; height: 200px;
+	margin: 20px 20px 10px 20px ;
+ width: 33%; 
+	
+}
+.section {
+display: flex;
+}
+
+.footnote{ background-color: #3299a8; height: 50px; margin: 10px 20px;
+}
